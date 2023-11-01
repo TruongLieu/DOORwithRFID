@@ -1,0 +1,13 @@
+pic16F886
+Dip20
+Crystal 20MHz
+Sil5
+7805
+Cap 22pF
+Cap 1000uF
+Button
+330ohm
+470ohm
+relay 5v
+sil2
+Adapter 12v 2a
